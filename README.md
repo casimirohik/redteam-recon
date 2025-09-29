@@ -1,7 +1,7 @@
 # Red Team Recon
 
 STILL IN DEVELOPMENT 
-A comprehensive reconnaissance tool for red teaming and penetration testing.
+- A comprehensive reconnaissance tool for red teaming and penetration testing.
 
 ## 🚀 Features
 - Subdomain enumeration
